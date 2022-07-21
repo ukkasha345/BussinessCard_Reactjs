@@ -1,0 +1,54 @@
+* {
+  font-family: Georgia, "Times New Roman";
+  background-color: #2f4f4f;
+  /* border-radius: 5px; */
+  padding: 0 5%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  color: white;
+  background-color: #1a1b21;
+}
+.about-sec {
+  background-color: #1a1b21;
+  margin-top: -25px;
+  padding: 5px 15px;
+  /* margin: 0px 4px; */
+}
+.profile-about {
+  padding: 4px;
+  background-color: #1a1b21;
+  margin: -20px 0;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1b21;
+}
+.self-button {
+  padding: "4%";
+  border-radius: 8;
+  /* display: "flex"; */
+  /* alignitems: "center"; */
+  /* justifycontent: "center"; */
+  margin: 1px 15px;
+  width: 25%;
+  height: 40px;
+  /* border-radius: 10px; */
+  cursor: pointer;
+}
+.footer-sec {
+  background-color: black;
+  padding: 2%;
+}
+.icons {
+  color: #918e9b;
+  background-color: black;
+  /* height: 50px;
+  width: 250px; */
+}
